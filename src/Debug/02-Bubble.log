@@ -1,0 +1,13 @@
+﻿  Game.cpp
+  InvertedBox.cpp
+  LevelScene.cpp
+C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\02-Bubble\LevelScene.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Scene.cpp
+  main.cpp
+  Generating Code...
+  02-Bubble.vcxproj -> C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\Debug\02-Bubble.exe
+  ..\..\..\libs\irrKlang-1.6.0\bin\win32-visualStudio\ikpFlac.dll
+  ..\..\..\libs\irrKlang-1.6.0\bin\win32-visualStudio\ikpMP3.dll
+  ..\..\..\libs\irrKlang-1.6.0\bin\win32-visualStudio\irrKlang.dll
+  3 archivo(s) copiado(s)

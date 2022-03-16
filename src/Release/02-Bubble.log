@@ -1,0 +1,5 @@
+﻿  LevelScene.cpp
+C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\02-Bubble\LevelScene.cpp(33,14): error C2065: 'g': undeclared identifier
+C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\02-Bubble\LevelScene.cpp(33,16): error C2277: 'Game::{ctor}': cannot take address of this member function
+C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\02-Bubble\LevelScene.cpp(36,49): error C2065: 'g': undeclared identifier
+C:\Users\madal\Documents\2D Game\2DGame\02-Bubble\02-Bubble\LevelScene.cpp(38,7): error C2065: 'g': undeclared identifier

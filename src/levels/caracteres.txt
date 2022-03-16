@@ -1,0 +1,13 @@
+= -> muro
+* -> button
+. -> upper coin
+, -> lower coin
+? -> player 1
+! -> player 2 spawn
+^ -> spikes
+< -> cactus
+_ -> upper chest
+- -> lower chest
+; -> upper portal in
+: -> upper portal out
+& -> lower box
